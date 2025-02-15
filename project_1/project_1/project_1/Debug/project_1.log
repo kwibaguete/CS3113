@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\bweng\source\repos\project_1\main.cpp(34,29): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\bweng\source\repos\project_1\main.cpp(35,29): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  project_1.vcxproj -> C:\Users\bweng\source\repos\project_1\Debug\project_1.exe
